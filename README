@@ -1,0 +1,10 @@
+README
+
+Run the plots.m file to generate all the IRFs for questions 1 to 3.
+
+Question 1: Benchmark_Model_1.mod
+Question 2: Benchmark_Model_2.mod
+Question 3: Benchmark_Model_3.mod
+			Benchmark_Model_3b.mod
+			Benchmark_Model_3c.mod
+			Benchmark_Model_3d.mod
